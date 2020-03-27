@@ -26,7 +26,6 @@ public class B extends A{
         int number=getNumber(s,'A');
         System.out.println(number);
         
-        
     }
     public static int getNumber(String s,char a){
         int number=0;
